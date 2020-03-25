@@ -1,7 +1,7 @@
+# Mdx-deck presentation about the Maybe Monad
 
-# mdx-deck basic template
+![App preview 1](./preview1.png)![App preview 2](./preview2.png)
 
-This was generated with [mdx-deck][]'s `npm init deck` command.
 
 ## Development
 
